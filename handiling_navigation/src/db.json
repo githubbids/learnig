@@ -1,0 +1,24 @@
+{
+    "courses" : [
+        {
+            "id" : "01",
+            "course": "React",
+            "details": "React (also known as React. js or ReactJS) is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications."
+        },
+        {
+            "id" : "02",
+            "course": "Java",
+            "details": "Java is a high-level programming language developed by Sun Microsystems. ... Instead, Java programs are interpreted by the Java Virtual Machine, or JVM, which runs on multiple platforms. This means all Java programs are multiplatform and can run on different platforms, including Macintosh, Windows, and Unix computers."
+        },
+        {
+            "id" : "03",
+            "course": "Python",
+            "details": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+        },
+        {
+            "id" : "04",
+            "course": "Node",
+            "details": "Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+        }
+    ]
+  }   

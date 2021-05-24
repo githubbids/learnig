@@ -1,0 +1,25 @@
+const renderList = props.courseList.map((data) => {
+    return(
+        <div key={data.id}>
+            <h2>{data.course}</h2>
+        </div>
+    )
+})
+
+
+
+import React, { useState } from 'react';
+import JSON from '../db.json';
+import Courses from './Courses';
+
+export default function Home (){
+    
+    {
+        this.state.course.map((data,item) => {
+            <p>{data.name}</p>
+        })
+    } 
+
+    <link className="btn btn-info" to ="/courses/javascript" >Details</link>
+
+    http://localhost:3002/users
